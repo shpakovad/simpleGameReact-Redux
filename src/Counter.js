@@ -5,7 +5,7 @@ class Counter extends React.Component {
     render = () => {
         return (
             <div className="counter">
-                <span className='user'> <b> User: </b> </span> {this.props.count}
+                <span> <b> User: </b> </span> {this.props.count}
             </div>
         );
     }
