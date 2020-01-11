@@ -4,7 +4,7 @@ import Wrapper from './Wrapper';
 import Counter from './Counter';
 import sound from './sound/Terminator.mp3';
 import UIfx from 'uifx';
-import {getRandomIndexAC, itemOnClickAC} from "./reducer";
+import { getRandomIndexAC, itemOnClickAC} from "./reducer";
 import {connect} from "react-redux";
 
 class App extends React.Component {
@@ -32,13 +32,14 @@ class App extends React.Component {
             </div>
         );
     }
-};
+}
 
 const mapStateToProps = (state) => {
     return {
         index: state.index,
         count: state.count,
-        item: state.item
+        item: state.item,
+        comp: state.comp
     }
 };
 const mapDispatchToProps = (dispatch) => {
@@ -54,7 +55,7 @@ const mapDispatchToProps = (dispatch) => {
     }
 };
 
-const ConnectedApp = connect(mapStateToProps, mapDispatchToProps)(App)
+const ConnectedApp = connect(mapStateToProps, mapDispatchToProps)(App);
 
 
 export default ConnectedApp;

@@ -15,7 +15,7 @@ const initialState = {
     ],
     index: 1,
     count: 0,
-}
+};
 const reducer = (state = initialState, action) => {
     switch (action.type) {
         case GET_INDEX:
@@ -27,7 +27,7 @@ const reducer = (state = initialState, action) => {
             return {
                 ...state,
                 count: action.newCount + 1
-            };
+            }
     }
     return state
 };
