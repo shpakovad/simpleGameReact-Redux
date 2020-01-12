@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/To-catch-Terminator/static/css/main.63cc937e.chunk.css",
-    "main.js": "/To-catch-Terminator/static/js/main.98a00ba7.chunk.js",
-    "main.js.map": "/To-catch-Terminator/static/js/main.98a00ba7.chunk.js.map",
-    "runtime~main.js": "/To-catch-Terminator/static/js/runtime~main.98214953.js",
-    "runtime~main.js.map": "/To-catch-Terminator/static/js/runtime~main.98214953.js.map",
-    "static/js/2.9383fb84.chunk.js": "/To-catch-Terminator/static/js/2.9383fb84.chunk.js",
-    "static/js/2.9383fb84.chunk.js.map": "/To-catch-Terminator/static/js/2.9383fb84.chunk.js.map",
-    "index.html": "/To-catch-Terminator/index.html",
-    "precache-manifest.b1dd4085c6892a366eeab8d67540605f.js": "/To-catch-Terminator/precache-manifest.b1dd4085c6892a366eeab8d67540605f.js",
-    "service-worker.js": "/To-catch-Terminator/service-worker.js",
-    "static/css/main.63cc937e.chunk.css.map": "/To-catch-Terminator/static/css/main.63cc937e.chunk.css.map",
-    "static/media/Terminator.mp3": "/To-catch-Terminator/static/media/Terminator.40dd3f16.mp3",
-    "static/media/arni.jpg": "/To-catch-Terminator/static/media/arni.6fcdb2fd.jpg",
-    "static/media/App.css": "/To-catch-Terminator/static/media/termitor_bg.2f0480aa.jpg"
+    "main.css": "/simpleGameReact-Redux/static/css/main.4fcdf8c1.chunk.css",
+    "main.js": "/simpleGameReact-Redux/static/js/main.1c6f633f.chunk.js",
+    "main.js.map": "/simpleGameReact-Redux/static/js/main.1c6f633f.chunk.js.map",
+    "runtime~main.js": "/simpleGameReact-Redux/static/js/runtime~main.bad45247.js",
+    "runtime~main.js.map": "/simpleGameReact-Redux/static/js/runtime~main.bad45247.js.map",
+    "static/js/2.9383fb84.chunk.js": "/simpleGameReact-Redux/static/js/2.9383fb84.chunk.js",
+    "static/js/2.9383fb84.chunk.js.map": "/simpleGameReact-Redux/static/js/2.9383fb84.chunk.js.map",
+    "index.html": "/simpleGameReact-Redux/index.html",
+    "precache-manifest.8a45449b79aace5fb7ff002ee5b70269.js": "/simpleGameReact-Redux/precache-manifest.8a45449b79aace5fb7ff002ee5b70269.js",
+    "service-worker.js": "/simpleGameReact-Redux/service-worker.js",
+    "static/css/main.4fcdf8c1.chunk.css.map": "/simpleGameReact-Redux/static/css/main.4fcdf8c1.chunk.css.map",
+    "static/media/Terminator.mp3": "/simpleGameReact-Redux/static/media/Terminator.40dd3f16.mp3",
+    "static/media/arni.jpg": "/simpleGameReact-Redux/static/media/arni.6fcdb2fd.jpg",
+    "static/media/App.css": "/simpleGameReact-Redux/static/media/termitor_bg.2f0480aa.jpg"
   }
 }
