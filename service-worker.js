@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/simpleGameReact-Redux/precache-manifest.8a45449b79aace5fb7ff002ee5b70269.js"
+  "/simpleGameReact-Redux/precache-manifest.402be3bf6f549b818c34fa4288e2845f.js"
 );
 
 self.addEventListener('message', (event) => {
